@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shivam\'s Cafe</string>
+    <string name="choose_your_nfavorite_coffee">Choose Your\nFavorite Coffee</string>
+    <string name="the_best_grain_the_finest_roast_nthe_powerfull_flavor">The best grain,the finest roast\nthe powerfull flavor</string>
+    <string name="get_started">Get Started</string>
+    <string name="search_anything">Search anything...</string>
+    <string name="category">Category</string>
+    <string name="popular_coffees">Popular Coffees</string>
+    <string name="see_all">see all</string>
+    <string name="explorer">Explorer</string>
+    <string name="cart">Cart</string>
+    <string name="my_order">My Order</string>
+    <string name="profile">Profile</string>
+    <string name="coffee_size">Coffee Size</string>
+    <string name="qty">Qty.</string>
+    <string name="add_to_cart">Add to cart</string>
+</resources>
