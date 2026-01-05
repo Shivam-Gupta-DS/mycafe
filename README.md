@@ -133,7 +133,13 @@ Set up your Firebase Realtime Database with the following structure:
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app here)*
+<p align="center">
+  <img src="screenshots/screenshot1.png" width="23%" />
+  <img src="screenshots/screenshot2.png" width="23%" />
+  <img src="screenshots/screenshot3.png" width="23%" />
+  <img src="screenshots/screenshot4.png" width="23%" />
+</p>
+
 
 ## 🔒 Security Notes
 
